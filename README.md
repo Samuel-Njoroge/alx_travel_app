@@ -1,0 +1,1 @@
+A real-world Django application that serves as the foundation for a travel listing platform.
